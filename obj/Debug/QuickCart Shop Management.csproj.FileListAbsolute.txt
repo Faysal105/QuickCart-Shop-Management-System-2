@@ -1,0 +1,49 @@
+G:\Spring 2024-25\Project\QuickCart Shop Management\QuickCart Shop Management\bin\Debug\QuickCart Shop Management.exe.config
+G:\Spring 2024-25\Project\QuickCart Shop Management\QuickCart Shop Management\bin\Debug\QuickCart Shop Management.exe
+G:\Spring 2024-25\Project\QuickCart Shop Management\QuickCart Shop Management\bin\Debug\QuickCart Shop Management.pdb
+G:\Spring 2024-25\Project\QuickCart Shop Management\QuickCart Shop Management\obj\Debug\QuickCart Shop Management.csproj.AssemblyReference.cache
+G:\Spring 2024-25\Project\QuickCart Shop Management\QuickCart Shop Management\obj\Debug\QuickCart_Shop_Management.Forms.AdminDashboard.resources
+G:\Spring 2024-25\Project\QuickCart Shop Management\QuickCart Shop Management\obj\Debug\QuickCart_Shop_Management.Forms.BrowseProductsForm.resources
+G:\Spring 2024-25\Project\QuickCart Shop Management\QuickCart Shop Management\obj\Debug\QuickCart_Shop_Management.Forms.CartForm.resources
+G:\Spring 2024-25\Project\QuickCart Shop Management\QuickCart Shop Management\obj\Debug\QuickCart_Shop_Management.Forms.CustomerDashboard.resources
+G:\Spring 2024-25\Project\QuickCart Shop Management\QuickCart Shop Management\obj\Debug\QuickCart_Shop_Management.Forms.CustomerListForm.resources
+G:\Spring 2024-25\Project\QuickCart Shop Management\QuickCart Shop Management\obj\Debug\QuickCart_Shop_Management.Forms.LoginForm.resources
+G:\Spring 2024-25\Project\QuickCart Shop Management\QuickCart Shop Management\obj\Debug\QuickCart_Shop_Management.Forms.ManageUsersForm.resources
+G:\Spring 2024-25\Project\QuickCart Shop Management\QuickCart Shop Management\obj\Debug\QuickCart_Shop_Management.Forms.OrderHistoryForm.resources
+G:\Spring 2024-25\Project\QuickCart Shop Management\QuickCart Shop Management\obj\Debug\QuickCart_Shop_Management.Forms.PrintInvoiceForm.resources
+G:\Spring 2024-25\Project\QuickCart Shop Management\QuickCart Shop Management\obj\Debug\QuickCart_Shop_Management.Forms.ProductManagementForm.resources
+G:\Spring 2024-25\Project\QuickCart Shop Management\QuickCart Shop Management\obj\Debug\QuickCart_Shop_Management.Forms.RegisterForm.resources
+G:\Spring 2024-25\Project\QuickCart Shop Management\QuickCart Shop Management\obj\Debug\QuickCart_Shop_Management.Forms.SellerDashboard.resources
+G:\Spring 2024-25\Project\QuickCart Shop Management\QuickCart Shop Management\obj\Debug\QuickCart_Shop_Management.Forms.TransactionHistoryForm.resources
+G:\Spring 2024-25\Project\QuickCart Shop Management\QuickCart Shop Management\obj\Debug\QuickCart_Shop_Management.Forms.UpdateProductForm.resources
+G:\Spring 2024-25\Project\QuickCart Shop Management\QuickCart Shop Management\obj\Debug\QuickCart_Shop_Management.Forms.ViewOrdersForm.resources
+G:\Spring 2024-25\Project\QuickCart Shop Management\QuickCart Shop Management\obj\Debug\QuickCart_Shop_Management.Properties.Resources.resources
+G:\Spring 2024-25\Project\QuickCart Shop Management\QuickCart Shop Management\obj\Debug\QuickCart Shop Management.csproj.GenerateResource.cache
+G:\Spring 2024-25\Project\QuickCart Shop Management\QuickCart Shop Management\obj\Debug\QuickCart Shop Management.csproj.CoreCompileInputs.cache
+G:\Spring 2024-25\Project\QuickCart Shop Management\QuickCart Shop Management\obj\Debug\QuickCart Shop Management.exe
+G:\Spring 2024-25\Project\QuickCart Shop Management\QuickCart Shop Management\obj\Debug\QuickCart Shop Management.pdb
+G:\Spring 2024-25\Project\QuickCart Shop Management\QuickCart Shop Management\obj\Debug\QuickCart Shop Management.exe.config
+D:\QuickCart Shop Management\QuickCart Shop Management\bin\Debug\QuickCart Shop Management.exe.config
+D:\QuickCart Shop Management\QuickCart Shop Management\bin\Debug\QuickCart Shop Management.exe
+D:\QuickCart Shop Management\QuickCart Shop Management\bin\Debug\QuickCart Shop Management.pdb
+D:\QuickCart Shop Management\QuickCart Shop Management\obj\Debug\QuickCart Shop Management.csproj.AssemblyReference.cache
+D:\QuickCart Shop Management\QuickCart Shop Management\obj\Debug\QuickCart_Shop_Management.Forms.AdminDashboard.resources
+D:\QuickCart Shop Management\QuickCart Shop Management\obj\Debug\QuickCart_Shop_Management.Forms.BrowseProductsForm.resources
+D:\QuickCart Shop Management\QuickCart Shop Management\obj\Debug\QuickCart_Shop_Management.Forms.CartForm.resources
+D:\QuickCart Shop Management\QuickCart Shop Management\obj\Debug\QuickCart_Shop_Management.Forms.CustomerDashboard.resources
+D:\QuickCart Shop Management\QuickCart Shop Management\obj\Debug\QuickCart_Shop_Management.Forms.CustomerListForm.resources
+D:\QuickCart Shop Management\QuickCart Shop Management\obj\Debug\QuickCart_Shop_Management.Forms.LoginForm.resources
+D:\QuickCart Shop Management\QuickCart Shop Management\obj\Debug\QuickCart_Shop_Management.Forms.ManageUsersForm.resources
+D:\QuickCart Shop Management\QuickCart Shop Management\obj\Debug\QuickCart_Shop_Management.Forms.OrderHistoryForm.resources
+D:\QuickCart Shop Management\QuickCart Shop Management\obj\Debug\QuickCart_Shop_Management.Forms.PrintInvoiceForm.resources
+D:\QuickCart Shop Management\QuickCart Shop Management\obj\Debug\QuickCart_Shop_Management.Forms.ProductManagementForm.resources
+D:\QuickCart Shop Management\QuickCart Shop Management\obj\Debug\QuickCart_Shop_Management.Forms.RegisterForm.resources
+D:\QuickCart Shop Management\QuickCart Shop Management\obj\Debug\QuickCart_Shop_Management.Forms.SellerDashboard.resources
+D:\QuickCart Shop Management\QuickCart Shop Management\obj\Debug\QuickCart_Shop_Management.Forms.TransactionHistoryForm.resources
+D:\QuickCart Shop Management\QuickCart Shop Management\obj\Debug\QuickCart_Shop_Management.Forms.UpdateProductForm.resources
+D:\QuickCart Shop Management\QuickCart Shop Management\obj\Debug\QuickCart_Shop_Management.Forms.ViewOrdersForm.resources
+D:\QuickCart Shop Management\QuickCart Shop Management\obj\Debug\QuickCart_Shop_Management.Properties.Resources.resources
+D:\QuickCart Shop Management\QuickCart Shop Management\obj\Debug\QuickCart Shop Management.csproj.GenerateResource.cache
+D:\QuickCart Shop Management\QuickCart Shop Management\obj\Debug\QuickCart Shop Management.csproj.CoreCompileInputs.cache
+D:\QuickCart Shop Management\QuickCart Shop Management\obj\Debug\QuickCart Shop Management.exe
+D:\QuickCart Shop Management\QuickCart Shop Management\obj\Debug\QuickCart Shop Management.pdb
